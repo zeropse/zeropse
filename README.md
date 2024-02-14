@@ -6,6 +6,7 @@ I'm an enthusiastic BCA student with a keen interest in the dynamic world of tec
 
 *   🌍  I'm based in India
 *   🧠  Currently I'm learning Java and Python
+
 #
 ### 🧰 Languages and Tools 
 
@@ -19,13 +20,13 @@ I'm an enthusiastic BCA student with a keen interest in the dynamic world of tec
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 </p>
 
+<!--
 #    
-### Socials
-                  
+### Socials   
+
 <a href="https://www.linkedin.com/in/srijit-dey-133b8a294" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
+-->
 #
-
 ### 📊 Stats
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zeropse&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Srijit's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropse&layout=compact&theme=tokyonight&hide_border=true" /></a> |
