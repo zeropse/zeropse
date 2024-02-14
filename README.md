@@ -6,10 +6,6 @@ I'm an enthusiastic BCA student with a keen interest in the dynamic world of tec
 
 *   🌍  I'm based in India
 *   🧠  Currently I'm learning Java and Python
-
-<a href="https://www.github.com/zeropse" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/zeropse?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 #
 ### 🧰 Languages and Tools 
 
