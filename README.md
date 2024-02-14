@@ -1,4 +1,4 @@
-Hi ! 👋 My name is Srijit Dey
+Hi ! 👋 My name is Srijit
 ===========================
 
 Beginner Developer
