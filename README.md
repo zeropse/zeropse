@@ -1,4 +1,4 @@
-Hi 👋 My name is Srijit Dey
+Hi ! 👋 My name is Srijit Dey
 ==================================================================================================================================
 
 Beginner Developer
@@ -8,7 +8,9 @@ I would like to describe myself as a dedicated and enthusiastic BCA student with
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [deysrijit2@gmail.com](mailto:deysrijit2@gmail.com)
-*   🧠  I'm learning Java and Python<a href="https://www.github.com/zeropse" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Java and Python
+
+<a href="https://www.github.com/zeropse" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/zeropse?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
