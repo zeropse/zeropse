@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Srijit!
 
-![Profile Views](https://komarev.com/ghpvc/?username=zeropse)
-
 - 🌍 Based in India
 - 📚 Currently Learning MERN Stack
 
