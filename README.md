@@ -16,7 +16,8 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat&logo=git&logoColor=white" alt="Git" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-%2338BDF8.svg?&style=flat&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=flat&logo=amazonaws&logoColor=white" alt="AWS" /></a>
-  <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-%FCC624.svg?&style=flat&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://www.apple.com/macos/" target="_blank"><img src="https://img.shields.io/badge/macOS-%239FC3D8.svg?&style=flat&logo=apple&logoColor=black" alt="macOS" /></a>
+  <a href="https://neovim.io" target="_blank"><img src="https://img.shields.io/badge/NeoVim-%2C1DA1F2.svg?&style=flat&logo=neovim&logoColor=white" alt="NeoVim" /></a>
 </p>
 
 ---
