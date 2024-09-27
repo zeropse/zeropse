@@ -1,27 +1,25 @@
-# Hi, I'm Srijit! 👋
+# 👋 Hi, I’m Srijit!
 
-I'm an enthusiastic BCA student passionate about the dynamic world of technology. I strive to keep learning and stay up-to-date with the latest innovations.
+![Profile Views](https://komarev.com/ghpvc/?username=zeropse)
 
-- 🌍 Based in **India**
-- 🧠 Currently mastering the **MERN Stack**
+- 🌍 Based in India
+- 📚 Currently Learning MERN Stack
 
-## 🚀 #30NitesOfCode Progress
-[![#30NitesOfCode](https://www.codedex.io/api/petStatus?user=zeropse)](https://www.codedex.io/@zeropse/30-nites-of-code)
-
-#
+---
 
 ## 🛠️ Languages & Tools
+
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=flat&logo=javascript&logoColor=%F7DF1E" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-%2338BDF8.svg?&style=flat&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=flat&logo=amazonaws&logoColor=white" alt="AWS" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-%FCC624.svg?&style=flat&logo=linux&logoColor=black" alt="Linux" /></a>
 </p>
 
-#
+---
 
 ## 📊 GitHub Stats
 
@@ -33,3 +31,18 @@ I'm an enthusiastic BCA student passionate about the dynamic world of technology
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropse&layout=compact&theme=tokyonight&hide_border=true&hide=lua,vim%20script,procfile" height="195" alt="Top Languages" />
   </a>
 </div>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/srijit-dey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/zer0pse" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
+
+---
+
+## 🎉 Collaboration & Contributions Welcome!
+
+I’m always open to collaboration! If you're interested in working together on exciting projects or sharing ideas, don't hesitate to get in touch.
