@@ -42,6 +42,4 @@
 
 ---
 
-## 🎉 Collaboration & Contributions Welcome!
-
-I’m always open to collaboration! If you're interested in working together on exciting projects or sharing ideas, don't hesitate to get in touch.
+[![An image of @zeropse's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeropse)](https://holopin.io/@zeropse)
