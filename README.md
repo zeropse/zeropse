@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Srijit!
+# Hi, I’m Srijit!
 
 - 🌍 Based in India
 - 📚 Currently Learning MERN Stack
@@ -24,11 +24,8 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=zeropse&show_icons=true&theme=tokyonight&hide_border=true" alt="Srijit's GitHub stats" height="180" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropse&layout=compact&theme=tokyonight&hide_border=true&hide=lua,vim%20script,procfile" height="180" alt="Top Languages" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=zeropse&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Srijit's GitHub stats" height="180" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropse&layout=compact&theme=tokyonight&hide_border=true&hide=lua,vim%20script,procfile,shell" height="180" alt="Top Languages" /></a>
 </div>
 
 ---
@@ -41,5 +38,5 @@
 </p>
 
 ---
-
-[![An image of @zeropse's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeropse)](https://holopin.io/@zeropse)
+## Hacktoberfest
+[![@zeropse's Holopin badges](https://holopin.me/zeropse)](https://holopin.io/@zeropse)
