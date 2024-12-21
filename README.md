@@ -40,3 +40,7 @@
 ---
 ## Hacktoberfest
 [![@zeropse's Holopin badges](https://holopin.me/zeropse)](https://holopin.io/@zeropse)
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@zeropse/30-nites-of-code)  
+  ![@zeropse #30NitesOfCode](https://www.codedex.io/api/petStatus?user=zeropse)
