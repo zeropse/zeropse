@@ -24,7 +24,7 @@ I'm a passionate developer from India, currently diving deep into the world of w
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=zeropse&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="zeropse's GitHub stats" height="150" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropse&layout=compact&theme=tokyonight&hide_border=true&hide=lua,vim%20script" height="150" alt="Top Languages" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropse&layout=compact&theme=tokyonight&hide_border=true&hide=lua,procfile,vim%20script" height="150" alt="Top Languages" /></a>
 </div>
 
 ---
