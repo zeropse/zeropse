@@ -21,12 +21,5 @@ I'm a passionate developer from India, currently diving deep into the world of w
   <a href="https://www.debian.org" target="_blank"><img src="https://img.shields.io/badge/Debian-%23A80030.svg?&style=for-the-badge&logo=debian&logoColor=white" alt="Debian" /></a>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=zeropse&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="zeropse's GitHub stats" height="150" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropse&layout=compact&theme=tokyonight&hide_border=true&hide=lua,vim%20script,procfile" height="150" alt="Top Languages" /></a>
-</div>
-
----
 ## Hacktoberfest
 [![@zeropse's Holopin badges](https://holopin.me/zeropse)](https://holopin.io/@zeropse)
